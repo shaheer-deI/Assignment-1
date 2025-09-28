@@ -1,0 +1,43 @@
+@media screen and (max-width: 767px) {
+  html { 
+    font-size: 14px; 
+  }
+
+  body {
+    background: #aaafff;
+    padding: 0.25rem;
+  }
+
+  nav ul {
+    text-align: center;
+  }
+
+  nav ul li {
+    display: block;     
+    margin: 0.4rem 0;
+  }
+
+  nav ul li a {
+    display: block;
+    padding: 0.9rem 0.6rem;
+    border-radius: 8px;
+    width: 90%;
+    margin: 0 auto;
+  }
+
+  #projects .project {
+    float: none;
+    width: 100%;
+    margin-bottom: 1rem;
+  }
+
+  #contact-form { 
+    padding: 0.8rem; 
+    width: 95%; 
+  }
+
+  button { 
+    padding: 0.8rem 1rem; 
+  }
+
+}

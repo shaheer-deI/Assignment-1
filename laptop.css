@@ -1,0 +1,30 @@
+@media screen and (min-width: 1025px) {
+  html { 
+    font-size: 18px; 
+  }
+
+  body {
+    background: linear-gradient(to bottom, #d8ebff, #ECF0F1);
+  }
+
+  .wrapper { 
+    padding: 0 1rem; 
+  }
+
+  nav ul li { 
+    margin: 0 1rem; 
+  }
+
+  nav ul li a {
+    padding: 0.8rem 1.2rem;
+    border-radius: 6px;
+  }
+
+
+  #projects .project {
+    float: left;
+    width: 48%;            
+    margin: 1% 1%;            
+    box-sizing: border-box;
+  }
+}
