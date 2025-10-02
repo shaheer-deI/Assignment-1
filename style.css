@@ -18,6 +18,7 @@ nav ul li a {
     border-radius: 5px;
 }
 
+/* ---Hover Indication-- */
 nav ul li a:hover {
   background: #E74C3C;
   color: #fff;
