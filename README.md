@@ -1,7 +1,7 @@
 ### Portfolio Assignment ###
 
 ### Question 1d
-# Used "https://formsubmit.co/your-email@example.com" as a way to send the form 
+# Used "https://formsubmit.co/your-email@example.com" as a way for users to send forms in the "contacts.html" file
 
 ### Question 2a
 # The dimensions used for each viewport are...
